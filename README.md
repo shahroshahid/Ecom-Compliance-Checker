@@ -1,4 +1,4 @@
-# Ecom-Compiance-Checker
+# Ecom-Compliance-Checker
 Automated compliance engine to audit financial communication logs against regulatory frameworks.
 An automated Python and SQL compliance tracking system designed to audit digital communication logs (such as corporate chat applications) against financial regulatory frameworks. 
 
